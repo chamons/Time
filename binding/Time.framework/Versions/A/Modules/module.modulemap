@@ -1,0 +1,4 @@
+framework module Time {
+    header "Time-Swift.h"
+    requires objc
+}
